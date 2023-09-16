@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: pink;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    text-align: center;
+    color: palevioletred;
+}
+
+textarea {
+    width: 96%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid violet;
+    border-radius: 5px;
+    resize: none;
+}
+
+#messagePreview {
+    font-style: italic;
+    color: #888;
+}
+p{
+    color: palevioletred;
+}
